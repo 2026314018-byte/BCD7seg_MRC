@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     481509757229995009       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Circuito"      # Project title
+  title:        "CirQMRC"      # Project title
   author:       "Miriam Rodriguez Cabello"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "circuito"      # One line description of what your project does
