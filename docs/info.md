@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+un circuito con display de 7 segmentos que permite visualizar el funcionamiento de las compuertas lógicas 
 ## How to test
 
-Explain how to use your project
+comprender el funcionamiento de un display 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+display de 7 segmentos
